@@ -11,6 +11,12 @@
     "url": "https://roblabs.com/xyz-raster-sources/styles/park-tiles-field-mapper.json",
     "thumbnail": "https://atlas-stg.geoplatform.gov/styles/v1/atlas-user/ck58pyquo009v01p99xebegr9/tiles/256/9/89/206@2x?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
   },
+{
+    "id": "world-imagery",
+    "title": "ArcGIS World Imagery",
+    "url": "https://roblabs.com/xyz-raster-sources/styles/arcgis-world-imagery.json",
+    "thumbnail": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/9/206/89"
+  },
   {
     "id": "americana",
     "title": "Americana",
