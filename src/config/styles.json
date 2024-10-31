@@ -6,6 +6,12 @@
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAQAAAAHDYbIAAAAEUlEQVR42mP8/58BDhiJ4wAA974H/U5Xe1oAAAAASUVORK5CYII="
   },
   {
+    "id": "park-tiles-standard",
+    "title": "@NPMap Park Tiles Standard",
+    "url": "https://roblabs.com/xyz-raster-sources/styles/park-tiles-field-mapper.json",
+    "thumbnail": "https://atlas-stg.geoplatform.gov/styles/v1/atlas-user/ck58pyquo009v01p99xebegr9/tiles/256/9/89/206@2x?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
+  },
+  {
     "id": "americana",
     "title": "Americana",
     "url": "https://americanamap.org/style.json",
