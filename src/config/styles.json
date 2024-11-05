@@ -6,16 +6,34 @@
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAQAAAAHDYbIAAAAEUlEQVR42mP8/58BDhiJ4wAA974H/U5Xe1oAAAAASUVORK5CYII="
   },
   {
-    "id": "park-tiles-standard",
-    "title": "@NPMap Park Tiles Standard",
-    "url": "https://roblabs.com/xyz-raster-sources/styles/park-tiles-field-mapper.json",
+    "id": "Park Tiles standard",
+    "title": "Park Tiles standard",
+    "url": "https://DOI-NPS.github.io/npmap-style/standard.json",
     "thumbnail": "https://atlas-stg.geoplatform.gov/styles/v1/atlas-user/ck58pyquo009v01p99xebegr9/tiles/256/9/89/206@2x?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
   },
-{
-    "id": "world-imagery",
-    "title": "ArcGIS World Imagery",
-    "url": "https://roblabs.com/xyz-raster-sources/styles/arcgis-world-imagery.json",
-    "thumbnail": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/9/206/89"
+  {
+    "id": "Park Tiles boundary",
+    "title": "Park Tiles boundary",
+    "url": "https://DOI-NPS.github.io/npmap-style/boundary.json",
+    "thumbnail": "https://atlas-stg.geoplatform.gov/v4/atlas-user.park-tiles-4-boundary/5/5/12@2x.png?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
+  },
+  {
+    "id": "Park Tiles data",
+    "title": "Park Tiles data",
+    "url": "https://DOI-NPS.github.io/npmap-style/data.json",
+    "thumbnail": "https://atlas-stg.geoplatform.gov/v4/atlas-user.park-tiles-4-data/4/2/5@2x.png?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
+  },
+  {
+    "id": "Park Tiles hydro",
+    "title": "Park Tiles hydro",
+    "url": "https://DOI-NPS.github.io/npmap-style/hydro.json",
+    "thumbnail": "https://atlas-stg.geoplatform.gov/v4/atlas-user.park-tiles-4-hydro/7/22/51@2x.png?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
+  },
+  {
+    "id": "Park Tiles label",
+    "title": "Park Tiles label",
+    "url": "https://DOI-NPS.github.io/npmap-style/label.json",
+    "thumbnail": "https://atlas-stg.geoplatform.gov/v4/atlas-user.park-tiles-4-label-point/3/0/2@2x.png?access_token=pk.eyJ1IjoiYXRsYXMtdXNlciIsImEiOiJjazFmdGx2bjQwMDAwMG5wZmYwbmJwbmE2In0.lWXK2UexpXuyVitesLdwUg"
   },
   {
     "id": "americana",
