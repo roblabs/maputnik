@@ -108,6 +108,7 @@ class ModalOpenInternal extends React.Component<ModalOpenInternalProps, ModalOpe
 
         const mapStyle = style.ensureStyleValidity(body)
         console.log('Loaded style ', mapStyle.id)
+        document.title = `Maputnik - ${mapStyle.name}`
         this.props.onStyleOpen(mapStyle)
         this.onOpenToggle()
       })
